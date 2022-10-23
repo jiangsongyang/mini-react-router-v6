@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "cd react-router-test && pnpm dev"
+    "dev": "cd src/react-router-test && pnpm dev"
   },
   "repository": {
     "type": "git",
